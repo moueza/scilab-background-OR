@@ -1,3 +1,3 @@
 # scilab-background-OR
 
-Pixcels
+Pixels
